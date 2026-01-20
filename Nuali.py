@@ -36,7 +36,7 @@ tweetInterval=60*60
 
 keywords=["python", "coding", "programming", "opensource"]
 
-jokes= [
+jokes=[
     "Why do programmers prefer dark mode? Because light attracts bugs.",         
     "There are 10 types of people in the world: those who understand binary and those who do not.",
     "I told my computer I needed a break, and it froze.",
@@ -49,7 +49,14 @@ jokes= [
     "Programmers do not sleep, they just wait.",
     "Hardware is the part of a computer you can kick.",
     "A programmer is told: Go to the store and buy a loaf of bread. If they have eggs, buy a dozen. He comes back with twelve loaves of bread.",
-    "Real programmers count from zero."
+    "Real programmers count from zero.",
+    "Why did the function return early? Because it had nothing else to do.",
+    "I would tell you a UDP joke, but you might not get it.",
+    "The best thing about a Boolean is that even if you are wrong, you are only off by a bit.",
+    "I tried to catch an exception, but it caught me instead.",
+    "Why did the developer go broke? Because he used up all his cache.",
+    "A user interface is like a joke — if you have to explain it, it is not that good.",
+    "My code works, I have no idea why."
 ]
 
 replies=[
