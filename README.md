@@ -1,10 +1,10 @@
 # Nuali
 
-A Twitter/X bot that tweets a joke every 2 hours or so. Nuali allows performs basic actions such as liking, retweeting and replying to posts.
+A Twitter/X bot that tweets a joke every 2 hours or so. Nuali also performs basic actions such as liking, retweeting and replying to posts. <br>
 
 ![Profile](images/profile.png)
 
-> Link to profile: https://x.com/NualiPy
+> Link to profile: https://x.com/NualiPy <br>
 > Inspiration: https://github.com/Lucas-Kohorst/Twitter-Bot <br>
 
 <br>
