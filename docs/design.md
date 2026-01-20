@@ -1,6 +1,6 @@
 # Design
 
-This phase focuses on defining the system architecture, components, and workflows of the Twitter/X bot **Nuali**. The goal is to ensure the system is modular, secure, and compliant with Twitter/X API policies.
+This phase focuses on defining the system architecture, components, and workflows. The goal is to ensure the system is modular, secure, and compliant with Twitter/X API policies.
 
 **System Architecture:**
 Nuali follows a modular, script-based architecture where each core functionality is handled independently. This improves maintainability and scalability.
